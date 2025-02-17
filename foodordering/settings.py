@@ -41,7 +41,8 @@ INSTALLED_APPS = [
 ]
 
 # Anamika 
-MIDDLEWARE = [
+
+MIDDLEWARE = [nt
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
